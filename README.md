@@ -5,7 +5,7 @@ This project is an example implementation of an application to fetch and send ra
 ## Setup:
 
 Clone the repository to your computer using the command:
-git clone <repository-URL>
+git clone https://github.com/mjadric/chucknorrisjoke-backend.git
 
 Navigate to the project directory:
 cd chucknorrisjoke
