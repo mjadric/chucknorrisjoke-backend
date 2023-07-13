@@ -8,7 +8,7 @@ Clone the repository to your computer using the command:
 git clone https://github.com/mjadric/chucknorrisjoke-backend.git
 
 Navigate to the project directory:
-cd chucknorrisjoke
+cd chucknorrisjoke-backend
 
 Install the project dependencies:
 npm install
