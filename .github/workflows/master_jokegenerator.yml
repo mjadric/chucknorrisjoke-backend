@@ -59,4 +59,4 @@ jobs:
           app-name: 'jokegenerator'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CDF59325DF0D4523B0722ACB8B5BB7C3 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2906F6CDC0484A7488B489399B949D76 }}
